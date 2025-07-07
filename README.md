@@ -17,4 +17,4 @@
 
 本站支持PC、手机、平板等设备的观看，确保您无论在哪个设备上都能获得流畅的播放体验。通过使用CDN技术加速视频加载速度，避免长时间等待，让用户享受快速、流畅的观影体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/dangconsong20250707/dangconsong14 ）</span>
